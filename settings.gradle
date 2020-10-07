@@ -1,0 +1,2 @@
+rootProject.name='Grettings'
+include ':app'
